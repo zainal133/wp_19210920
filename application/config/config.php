@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/webpro_19210920/';
+$config['base_url'] = 'http://localhost/wp2_19210775/';
 
 /*
 |--------------------------------------------------------------------------
@@ -36,6 +36,7 @@ $config['base_url'] = 'http://localhost/webpro_19210920/';
 |
 */
 $config['index_page'] = '';
+
 /*
 |--------------------------------------------------------------------------
 | URI PROTOCOL
